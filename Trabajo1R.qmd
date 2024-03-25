@@ -1,0 +1,41 @@
+---
+title: "Identificación partidaria y el apoyo a la democracia en Chile"
+author: "Thiare Santibañez"
+format: html
+editor: visual
+bibliography: trabajouno.bib 
+link-citations: true
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+# Identificación partidaria y el apoyo a la democracia en Chile.
+
+En el presente escrito, se presentará la preocupante disminución del apoyo al sistema democrático en Chile, evidenciada por los bajos niveles de respaldo a este sistema en toda América Latina, siendo Chile uno de los principales países que muestra bajos niveles de apoyo a este sistema (@latinobarómetrocorporation2023. Por otra parte, se puede interpretar que la contante disminución del apoyo a la democracia en Chile tiene que ver con eventos específicos, uno de los más recientes, siendo el "Estallido social", que ocurrió en el año 2019, demostrando el descontento de una gran parte de la población Chilena con las alzas de diversos servicios, como se vio en los primeros motivos de protestas, como por ejemplo, el descontento con el aumento de dinero al pasaje del metro de Santiago (@moralesquirogaEstallidoSocialChile2020. Sin embargo, es relevante comprender desde dónde y por qué surgen estos bajos niveles de apoyo a la democracia en Chile; no se puede considerar solo un evento como el estallido social para explicar este fenómeno, al contrario, sería insuficiente. Por lo tanto el presente proyecto, utilizando el caso de Chile, se presenta la siguiente hipótesis: Para el país de Chile, mientras más baja es la representación ciudadana mediante los partidos políticos, menos apoyo a la democracia existe.
+
+La menor representación de los ciudadanos por parte de los partidos políticos puede resultar en menor apego al sistema político, en este caso al sistema democrático, ya que los partidos políticos tradicionales no son capaces de solucionar la crisis de representación que experimenta la población, de este modo, en un intento de conseguir más identificación, se crean más partidos políticos no tradicionales, llamados "emergentes" y se diversifica más la ciudadanía, obteniendo practicamente el mismo resultado. "En 1990 al rededor del 73% manifestaba identificación con alguna organización partidaria, cifra que desciende al 19% en 2016, y al 16% en 2019 (@avendanoPoliticosContraPartidos2022." Estas cifras, afectan de la misma manera a partidos tradicionales y partidos emergentes.
+
+Relacionado a la crisis de identificación partidaria, es importante señalar que en Chile se vivieron momentos críticos de la Democracia como lo fue la dictadura militar de 1973, llena de violencia y violaciones a los DDHH, por lo cual, se identifica que en periodo de vuelta a la democracia, hubo una reducción de la identificación partidaria total del 70% respecto a otros periodos (@moralesquirogaEstallidoSocialChile2020.
+
+Siguiendo con el mismo impacto que generó la dictadura en Chile, se debe precisar cómo durante este periodo, el régimen militar se esforzó para dejar enclaves constitucionales para los posteriores periodos que pudiesen venir de gobierno, a través de la constitución instaurada en dicho periodo. Por lo que la concertación que asume en este retorno a la democracia, demora quince años y tres gobiernos para empezar a teabajar en reformas constitucionales (@garciagonzalezPESOMEMORIAINICIOS2006.
+
+Con esto se puede hacer una idea general sobre los fenómenos sociales en Chile que causan la existencia de una crisis identitaria con respecto a los partidos políticos, y por ende un menor apoyo a la democracia cada vez más evidente.
